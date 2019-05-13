@@ -5,7 +5,7 @@ Original Function Link :- https://stackoverflow.com/a/52480975/10422074
 
 * Add delgate method UITextFieldDelegate in your class
 * Connect Textfield to Delegate . 
-* Then use Below Code to acheive format like this . (12/12/2000) (Date of Bith Format) 
+* Then use Below Code to acheive format like this . (12/12/2000) (Date of Birth Format) 
 
 ```swift
 
